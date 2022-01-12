@@ -12,6 +12,25 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.style {
+  width: 350px;
+  height: 150px;
+  background-color: cadetblue;
+}
+.style1 {
+  width: 350px;
+  height: 150px;
+  background-color: fuchsia;
+}
+.main {
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: row;
+}
 
 .App-header {
   background-color: #282c34;
